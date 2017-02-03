@@ -14,6 +14,10 @@
 ## Resources from reputed firms:
   - [Natural language processing research at google](https://research.google.com/pubs/NaturalLanguageProcessing.html)
 
-
 ## Souls to follow:
   - [The Top H-index for natural language processing](http://www.guide2research.com/scientists/natural_language_processing)
+
+## Interesting nlp topics' threads:
+
+#Quora:
+  - [spell checking algorithms used by google](https://www.quora.com/What-are-some-algorithms-of-spelling-correction-that-were-used-by-search-engine)  
