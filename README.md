@@ -17,7 +17,15 @@
 ## Souls to follow:
   - [The Top H-index for natural language processing](http://www.guide2research.com/scientists/natural_language_processing)
 
-## Interesting nlp topics' threads:
+# Interesting nlp topics' threads:
 
-#Quora:
-  - [spell checking algorithms used by google](https://www.quora.com/What-are-some-algorithms-of-spelling-correction-that-were-used-by-search-engine)  
+## Quora:
+  - [spell checking algorithms used by google](https://www.quora.com/What-are-some-algorithms-of-spelling-correction-that-were-used-by-search-engine)
+
+## Reddit:
+  - [Natural language processing on the first 2016 presidential debate](https://www.reddit.com/r/dataisbeautiful/comments/565a7y/natural_language_processing_on_the_first_2016/)
+
+## Hackernews:
+  - [Applications of nlp at quora](https://news.ycombinator.com/item?id=11715993)
+
+        
