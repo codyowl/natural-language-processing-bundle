@@ -18,6 +18,7 @@
   - [The Top H-index for natural language processing](http://www.guide2research.com/scientists/natural_language_processing)
 
 # Interesting nlp topics' threads:
+----------------------------------
 
 ## - Quora:
   - [spell checking algorithms used by google](https://www.quora.com/What-are-some-algorithms-of-spelling-correction-that-were-used-by-search-engine)
@@ -28,6 +29,10 @@
 ## - Hackernews:
   - [Applications of nlp at quora](https://news.ycombinator.com/item?id=11715993)
 
+# Interesting blogs:
+--------------------
+
+  - [Mapping Happiness on twitter with natural language processing](https://medium.com/@JBramVB/mapping-happiness-with-twitter-natural-language-processing-ac231e70fe7#.lsnwkmkuu)
 
 # Nlp mini project ideas:
 --------------------------
