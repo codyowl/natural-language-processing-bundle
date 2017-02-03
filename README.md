@@ -11,6 +11,9 @@
   - [Natural language processing with deep learning(stanford)](http://web.stanford.edu/class/cs224n/)  
   - [The stanford natural language processing group](http://nlp.stanford.edu/index.shtml)
 
+## Resources from reputed firms:
+  - [Natural language processing research at google](https://research.google.com/pubs/NaturalLanguageProcessing.html)
+
+
 ## Souls to follow:
   - [The Top H-index for natural language processing](http://www.guide2research.com/scientists/natural_language_processing)
-
