@@ -1,7 +1,7 @@
 # Natural language processing:
 ------------------------------
 
-## Onlice courses:
+## Online courses:
   - [Introduction to Natural language processing by coursera](https://www.coursera.org/learn/natural-language-processing)
   - [Introduction to Nlp by udemy](https://www.udemy.com/natural-language-processing/)
 
@@ -12,4 +12,4 @@
 
 ## Souls to follow:
   - [The Top H-index for natural language processing](http://www.guide2research.com/scientists/natural_language_processing)
-  
+
