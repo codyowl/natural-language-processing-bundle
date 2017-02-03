@@ -28,3 +28,7 @@
 ## - Hackernews:
   - [Applications of nlp at quora](https://news.ycombinator.com/item?id=11715993)
 
+
+# Nlp mini project ideas:
+--------------------------
+
