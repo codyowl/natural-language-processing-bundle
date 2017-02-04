@@ -37,3 +37,4 @@
 # Nlp mini project ideas:
 --------------------------
 
+  - Simple spell checker
