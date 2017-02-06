@@ -38,3 +38,4 @@
 --------------------------
 
   - Simple spell checker
+  - Grammar correction parsing algorithm
