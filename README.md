@@ -39,3 +39,4 @@
 
   - Simple spell checker
   - Grammar correction parsing algorithm
+  - [Project thread from algorithmia](https://algorithmia.com/users/nlp)
