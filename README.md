@@ -2,7 +2,7 @@
 ------------------------------
 
 ## Online courses:
-  - [Introduction to Natural language processing by coursera](https://www.coursera.org/learn/natural-language-processing)
+  - [Introduction to Natural language processing by  University of Michigan (coursera)](https://www.coursera.org/learn/natural-language-processing)
   - [Introduction to Nlp by udemy](https://www.udemy.com/natural-language-processing/)
   - [Natural language processing by professor Daniel Jurafsky(stanford)](https://www.youtube.com/watch?v=nfoudtpBV68)
 
