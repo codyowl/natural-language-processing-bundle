@@ -17,6 +17,7 @@
 ## Souls to follow:
   - [The Top H-index for natural language processing](http://www.guide2research.com/scientists/natural_language_processing)
   - [7 AI and Machine learning Experts and influencers to know](http://blog.capterra.com/ai-and-machine-learning-experts) 
+  - [10 Influential data scientist and why you should follow them](https://techbeacon.com/10-influential-data-scientists-why-you-should-follow-them-twitter)
 
 # Interesting nlp topics' threads:
 ----------------------------------
