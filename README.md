@@ -35,6 +35,7 @@
 --------------------
 
   - [Mapping Happiness on twitter with natural language processing](https://medium.com/@JBramVB/mapping-happiness-with-twitter-natural-language-processing-ac231e70fe7#.lsnwkmkuu)
+  - [Build your own nlp based assistant](http://xrds.acm.org/blog/2017/01/build-natural-language-processing-based-intelligent-assistant-using-python-easy/)
 
 # Nlp mini project ideas:
 --------------------------
